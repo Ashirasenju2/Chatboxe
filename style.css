@@ -1,0 +1,16 @@
+.console {
+  position: fixed;
+  right: 0px;
+  background-color: black;
+  width: 600px;
+  height: 600px;
+  bottom: 150px;
+
+}
+.run {
+  position: fixed;
+  bottom: 0px;
+  width: 700px;
+  height: 50px;
+}
+
